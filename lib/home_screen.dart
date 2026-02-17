@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
 
       appBar: AppBar(
         backgroundColor: const Color(0xFF1E1E1E),
-        title: const Text(
+        title: const  Text(
           'Food Shop',
           style: TextStyle(color: Color(0xFFD4AF37),
           fontWeight: FontWeight.bold,
