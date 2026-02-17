@@ -4,11 +4,11 @@ class HomeScreen extends StatelessWidget {
   HomeScreen({super.key});
 
   final products = [
-    {'name': 'Wireless Earbuds', 'price': '\$25', 'image': 'https://lastlook.pk/wp-content/uploads/2022/10/M10-TWS-Bluetooth-Earbuds-1.jpg'},
-    {'name': 'Smart Watch', 'price': '\$20', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzL8F7cEFIAHFkF20iaHCZ76hj3Mnp3meogw&s'},
-    {'name': 'Phone Case', 'price': '\$10', 'image': 'https://img.drz.lazcdn.com/static/pk/p/15db255bdf53189f0003a89c6cf14f5d.jpg_720x720q80.jpg'},
-    {'name': 'Power Bank', 'price': '\$30', 'image': 'https://img.drz.lazcdn.com/static/pk/p/1d9171a9e000d74ab31e71850b04c31e.jpg_720x720q80.jpg'},
-    {'name': 'Necklace', 'price': '\$5', 'image': 'https://i.etsystatic.com/54132661/r/il/027700/6957247553/il_1080xN.6957247553_gxz0.jpg'},
+    {'name': 'Cake', 'price': '\$2', 'image': 'https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice.jpg'},
+    {'name': 'Zinger Burger', 'price': '\$10', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZuHTiGWB-2IMLv4VAejR5Ts6KZI59xcNmMQ&s'},
+    {'name': 'Pizza', 'price': '\$15', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFcEE6yUZtfkqkFl8yI8yr48j0oDovo1_Xw&s'},
+    {'name': 'Fries', 'price': '\$1', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp58lL85rIlLQabGyF7EBtGU6tbByBV7sfXg&s'},
+    {'name': 'Chocolate Frappe', 'price': '\$5', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHirOE_W36Rmruor_97yG7fR9jRDU7j_syg&s'},
   ];
 
   @override
