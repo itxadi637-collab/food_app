@@ -13,7 +13,7 @@ class LoginScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
-                'Luxury Shop',
+                'Food Shop',
                 style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold, color: Color(0xFFD4AF37)),
               ),
               const SizedBox(height: 40),
